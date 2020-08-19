@@ -1,0 +1,10 @@
+C:\Users\Ho\source\repos\WindowsFormsApp_again\WindowsFormsApp_again\bin\Debug\WindowsFormsApp_again.exe.config
+C:\Users\Ho\source\repos\WindowsFormsApp_again\WindowsFormsApp_again\bin\Debug\WindowsFormsApp_again.exe
+C:\Users\Ho\source\repos\WindowsFormsApp_again\WindowsFormsApp_again\bin\Debug\WindowsFormsApp_again.pdb
+C:\Users\Ho\source\repos\WindowsFormsApp_again\WindowsFormsApp_again\obj\Debug\WindowsFormsApp_again.csprojAssemblyReference.cache
+C:\Users\Ho\source\repos\WindowsFormsApp_again\WindowsFormsApp_again\obj\Debug\WindowsFormsApp_again.Properties.Resources.resources
+C:\Users\Ho\source\repos\WindowsFormsApp_again\WindowsFormsApp_again\obj\Debug\WindowsFormsApp_again.csproj.GenerateResource.cache
+C:\Users\Ho\source\repos\WindowsFormsApp_again\WindowsFormsApp_again\obj\Debug\WindowsFormsApp_again.csproj.CoreCompileInputs.cache
+C:\Users\Ho\source\repos\WindowsFormsApp_again\WindowsFormsApp_again\obj\Debug\WindowsFormsApp_again.exe
+C:\Users\Ho\source\repos\WindowsFormsApp_again\WindowsFormsApp_again\obj\Debug\WindowsFormsApp_again.pdb
+C:\Users\Ho\source\repos\WindowsFormsApp_again\WindowsFormsApp_again\obj\Debug\WindowsFormsApp_again.Form1.resources

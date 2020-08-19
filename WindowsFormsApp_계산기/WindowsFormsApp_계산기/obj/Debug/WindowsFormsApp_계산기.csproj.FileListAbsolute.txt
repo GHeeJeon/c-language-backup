@@ -1,0 +1,10 @@
+C:\Users\Ho\source\repos\WindowsFormsApp_계산기\WindowsFormsApp_계산기\bin\Debug\WindowsFormsApp_계산기.exe.config
+C:\Users\Ho\source\repos\WindowsFormsApp_계산기\WindowsFormsApp_계산기\bin\Debug\WindowsFormsApp_계산기.exe
+C:\Users\Ho\source\repos\WindowsFormsApp_계산기\WindowsFormsApp_계산기\bin\Debug\WindowsFormsApp_계산기.pdb
+C:\Users\Ho\source\repos\WindowsFormsApp_계산기\WindowsFormsApp_계산기\obj\Debug\WindowsFormsApp_계산기.csprojAssemblyReference.cache
+C:\Users\Ho\source\repos\WindowsFormsApp_계산기\WindowsFormsApp_계산기\obj\Debug\WindowsFormsApp_계산기.Properties.Resources.resources
+C:\Users\Ho\source\repos\WindowsFormsApp_계산기\WindowsFormsApp_계산기\obj\Debug\WindowsFormsApp_계산기.전지희계산기.resources
+C:\Users\Ho\source\repos\WindowsFormsApp_계산기\WindowsFormsApp_계산기\obj\Debug\WindowsFormsApp_계산기.csproj.GenerateResource.cache
+C:\Users\Ho\source\repos\WindowsFormsApp_계산기\WindowsFormsApp_계산기\obj\Debug\WindowsFormsApp_계산기.csproj.CoreCompileInputs.cache
+C:\Users\Ho\source\repos\WindowsFormsApp_계산기\WindowsFormsApp_계산기\obj\Debug\WindowsFormsApp_계산기.exe
+C:\Users\Ho\source\repos\WindowsFormsApp_계산기\WindowsFormsApp_계산기\obj\Debug\WindowsFormsApp_계산기.pdb

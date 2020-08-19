@@ -1,0 +1,5 @@
+﻿  Project8+++.cpp
+C:\Users\Ho\source\repos\Project8+++\Project8+++\Project8+++.cpp(64,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Ho\source\repos\Project8+++\Project8+++\Project8+++.cpp(96,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Ho\source\repos\Project8+++\Project8+++\Project8+++.cpp(148,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  Project8+++.vcxproj -> C:\Users\Ho\source\repos\Project8+++\Debug\Project8+++.exe

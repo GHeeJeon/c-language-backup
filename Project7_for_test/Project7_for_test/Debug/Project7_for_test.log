@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\Ho\source\repos\Project7_for_test\Project7_for_test\소스.c(14,18): warning C4244:  '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Ho\source\repos\Project7_for_test\Project7_for_test\소스.c(12,7): warning C4101:  'horse_name' :참조되지 않은 지역 변수입니다.
+  Project7_for_test.vcxproj -> C:\Users\Ho\source\repos\Project7_for_test\Debug\Project7_for_test.exe

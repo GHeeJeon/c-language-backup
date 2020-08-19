@@ -1,0 +1,18 @@
+﻿  BlackBingo.c
+c:\users\ho\source\repos\project3\project3\blackbingo.c(75): warning C4047: '함수': 'const char *const '의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\ho\source\repos\project3\project3\blackbingo.c(75): warning C4024: 'printf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\ho\source\repos\project3\project3\blackbingo.c(76): warning C4047: '함수': 'const char *const '의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\ho\source\repos\project3\project3\blackbingo.c(76): warning C4024: 'printf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\ho\source\repos\project3\project3\blackbingo.c(82): warning C4047: '함수': 'const char *const '의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\ho\source\repos\project3\project3\blackbingo.c(82): warning C4024: 'printf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\ho\source\repos\project3\project3\blackbingo.c(83): warning C4047: '함수': 'const char *const '의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\ho\source\repos\project3\project3\blackbingo.c(83): warning C4024: 'printf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\ho\source\repos\project3\project3\blackbingo.c(89): warning C4047: '함수': 'const char *const '의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\ho\source\repos\project3\project3\blackbingo.c(89): warning C4024: 'printf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\ho\source\repos\project3\project3\blackbingo.c(90): warning C4047: '함수': 'const char *const '의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\ho\source\repos\project3\project3\blackbingo.c(90): warning C4024: 'printf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\ho\source\repos\project3\project3\blackbingo.c(133): warning C4047: '함수': 'const char *const '의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\ho\source\repos\project3\project3\blackbingo.c(133): warning C4024: 'printf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\ho\source\repos\project3\project3\blackbingo.c(134): warning C4047: '함수': 'const char *const '의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\ho\source\repos\project3\project3\blackbingo.c(134): warning C4024: 'printf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  Project3.vcxproj -> C:\Users\Ho\source\repos\Project3\Debug\Project3.exe

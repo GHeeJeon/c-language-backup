@@ -1,0 +1,10 @@
+﻿  Contact.c
+c:\users\ho\source\repos\project4\project4\contact.c(33): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\ho\source\repos\project4\project4\contact.c(49): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\ho\source\repos\project4\project4\contact.c(158): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\ho\source\repos\project4\project4\contact.c(174): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  FileIo.c
+  Main.c
+  Menu.c
+  코드를 생성하고 있습니다...
+  Project4.vcxproj -> C:\Users\Ho\source\repos\Project4\Debug\Project4.exe

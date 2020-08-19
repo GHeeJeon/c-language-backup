@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\Ho\source\repos\Project10\Project10\소스.c(18,1): warning C4047:  '초기화 중': 'DWORD'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Ho\source\repos\Project10\Project10\소스.c(27,1): warning C4047:  '초기화 중': 'DWORD'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  Project10.vcxproj -> C:\Users\Ho\source\repos\Project10\Debug\Project10.exe

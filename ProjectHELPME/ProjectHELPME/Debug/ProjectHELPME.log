@@ -1,0 +1,3 @@
+﻿  contact.c
+c:\users\ho\source\repos\projecthelpme\projecthelpme\contact.c(47): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  ProjectHELPME.vcxproj -> C:\Users\Ho\source\repos\ProjectHELPME\Debug\ProjectHELPME.exe

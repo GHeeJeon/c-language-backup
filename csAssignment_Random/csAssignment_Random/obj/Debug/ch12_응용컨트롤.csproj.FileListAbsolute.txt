@@ -1,0 +1,12 @@
+C:\Users\Ho\source\repos\csAssignment_Random\csAssignment_Random\bin\Debug\csAssignment_Random.exe.config
+C:\Users\Ho\source\repos\csAssignment_Random\csAssignment_Random\bin\Debug\csAssignment_Random.exe
+C:\Users\Ho\source\repos\csAssignment_Random\csAssignment_Random\bin\Debug\csAssignment_Random.pdb
+C:\Users\Ho\source\repos\csAssignment_Random\csAssignment_Random\obj\Debug\ch12_응용컨트롤.csprojAssemblyReference.cache
+C:\Users\Ho\source\repos\csAssignment_Random\csAssignment_Random\obj\Debug\csAssignment_Random.Form1.resources
+C:\Users\Ho\source\repos\csAssignment_Random\csAssignment_Random\obj\Debug\csAssignment_Random.Properties.Resources.resources
+C:\Users\Ho\source\repos\csAssignment_Random\csAssignment_Random\obj\Debug\ch12_응용컨트롤.csproj.GenerateResource.cache
+C:\Users\Ho\source\repos\csAssignment_Random\csAssignment_Random\obj\Debug\ch12_응용컨트롤.csproj.CoreCompileInputs.cache
+C:\Users\Ho\source\repos\csAssignment_Random\csAssignment_Random\obj\Debug\csAssignment_Random.exe
+C:\Users\Ho\source\repos\csAssignment_Random\csAssignment_Random\obj\Debug\csAssignment_Random.pdb
+C:\Users\Ho\source\repos\csAssignment_Random\csAssignment_Random\obj\Debug\ch12_객체동적생성.랜덤시험문제.resources
+C:\Users\Ho\source\repos\csAssignment_Random\csAssignment_Random\obj\Debug\ch12_객체동적생성.Form1.resources

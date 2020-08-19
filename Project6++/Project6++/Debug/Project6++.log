@@ -1,0 +1,13 @@
+﻿  main++.cpp
+C:\Users\Ho\source\repos\Project6++\Project6++\main++.cpp(36,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  'strcpy' 선언을 참조하십시오.
+C:\Users\Ho\source\repos\Project6++\Project6++\main++.cpp(50,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  'strcpy' 선언을 참조하십시오.
+C:\Users\Ho\source\repos\Project6++\Project6++\main++.cpp(58,1): warning C4267:  '초기화 중': 'size_t'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Ho\source\repos\Project6++\Project6++\main++.cpp(59,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  'strcpy' 선언을 참조하십시오.
+C:\Users\Ho\source\repos\Project6++\Project6++\main++.cpp(82,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  'strcpy' 선언을 참조하십시오.
+C:\Users\Ho\source\repos\Project6++\Project6++\main++.cpp(100,25): warning C4244:  'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Ho\source\repos\Project6++\Project6++\main++.cpp(104,18): warning C4244:  'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project6++.vcxproj -> C:\Users\Ho\source\repos\Project6++\Debug\Project6++.exe

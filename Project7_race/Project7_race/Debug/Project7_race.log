@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Ho\source\repos\Project7_race\Project7_race\main.cpp(37,18): warning C4838:  'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Ho\source\repos\Project7_race\Project7_race\main.cpp(37,20): warning C4838:  'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  Project7_race.vcxproj -> C:\Users\Ho\source\repos\Project7_race\Debug\Project7_race.exe
